@@ -3,7 +3,7 @@
   "name": "portofoliu",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/andrei3914/pfolio",
+  "homepage":"http://github.com/andrei3914/pfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
