@@ -1,0 +1,17 @@
+.acasa {
+	height: 900px;
+}
+
+.eldivo {
+	display: flex;
+	justify-content: center;
+	transform: translateY(250px);
+}
+
+.stiltitlu {
+	color: #333333; font-family: 'Bitter', serif; font-size: 50px; font-weight: normal; line-height: 54px; margin: 0 0 54px;
+}
+
+.stilsubtitlu {
+	color: #333333; font-family: 'Bitter', serif; font-size: 35px; font-weight: normal; line-height: 54px; margin: 0 0 20px;
+}

@@ -1,0 +1,12 @@
+
+.stilnav {
+	height: 60px;
+	border-style: none;
+	position: fixed;
+	display: flex;
+	justify-content: flex-end;
+}
+
+a {
+	text-decoration: none;
+}

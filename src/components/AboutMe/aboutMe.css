@@ -1,0 +1,31 @@
+.abutme {
+	height: 400px;
+	width: 60%;
+	color: #333333; 
+	font-family: 'Bitter', serif;
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+}
+
+.diviziune {
+	height: 400px;
+	width: 100%;
+}
+
+.poza {
+	background-image: url('imagine.JPG');
+	background-color: #cccccc;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	border-radius: 50%;
+
+}
+
+@media only screen and (max-width: 1700px) {
+  .poza {
+    display: none;
+  }
+}

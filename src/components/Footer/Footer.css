@@ -1,0 +1,15 @@
+.position {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between; 
+}
+
+.orientare {
+	background: rgba(28, 32, 36, 1);
+	bottom: 0px;
+	width: 100%;
+	margin: 0;
+	padding: 1px;
+	min-height: 100vh -50 px;
+	overflow: auto;
+}

@@ -1,0 +1,10 @@
+.disp {
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 30px;
+}
+
+.proiecteStil {
+	height: 500px;
+}
