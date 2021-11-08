@@ -7,7 +7,7 @@ const Contact = () => {
 			<h1 className="stilsubtitlu">
 				{'Contact'}
 			</h1>
-			<p> {'email: popandrei230@yahoo.com'} </p>
+			<p className="f3"> {'email: popandrei230@yahoo.com'} </p>
 		</div>
 	);
 }
