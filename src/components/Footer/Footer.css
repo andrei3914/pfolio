@@ -4,6 +4,10 @@
 	justify-content: space-between; 
 }
 
+.leftPart {
+	display: flex;
+}
+
 .orientare {
 	background: rgba(28, 32, 36, 1);
 	bottom: 0px;
@@ -12,4 +16,15 @@
 	padding: 1px;
 	min-height: 100vh -50 px;
 	overflow: auto;
+}
+
+.imagine {
+	padding-top: 5px;
+	width: 32px;
+	height: 32px;
+}
+
+.imagine:hover {
+	transform: rotate(360deg);
+	transition: .5s;
 }
