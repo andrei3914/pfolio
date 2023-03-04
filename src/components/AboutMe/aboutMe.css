@@ -1,27 +1,24 @@
 .abutme {
-	height: 400px;
-	width: 60%;
-	color: #333333; 
-	font-family: 'Bitter', serif;
-	overflow: auto;
-	display: flex;
-	flex-direction: row;
+  width: 60%;
+  color: #333333;
+  font-family: "Bitter", serif;
+  display: flex;
+  flex-direction: row;
 }
 
 .diviziune {
-	height: 400px;
-	width: 100%;
+  height: 400px;
+  width: 100%;
 }
 
 .poza {
-	background-image: url('imagine.JPG');
-	background-color: #cccccc;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
-	border-radius: 50%;
-
+  background-image: url("imagine.JPG");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border-radius: 50%;
 }
 
 @media only screen and (max-width: 1700px) {
