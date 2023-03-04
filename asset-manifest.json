@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/pfolio/static/css/main.a2f5c1f7.chunk.css",
-    "main.js": "/pfolio/static/js/main.6a8c49e5.chunk.js",
-    "main.js.map": "/pfolio/static/js/main.6a8c49e5.chunk.js.map",
-    "runtime-main.js": "/pfolio/static/js/runtime-main.40931706.js",
-    "runtime-main.js.map": "/pfolio/static/js/runtime-main.40931706.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/pfolio/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.b82b02f4.chunk.js": "/pfolio/static/js/2.b82b02f4.chunk.js",
-    "static/js/2.b82b02f4.chunk.js.map": "/pfolio/static/js/2.b82b02f4.chunk.js.map",
-    "static/js/3.1ba29d49.chunk.js": "/pfolio/static/js/3.1ba29d49.chunk.js",
-    "static/js/3.1ba29d49.chunk.js.map": "/pfolio/static/js/3.1ba29d49.chunk.js.map",
+    "main.css": "/pfolio/static/css/main.01ac91d4.chunk.css",
+    "main.js": "/pfolio/static/js/main.7a177c15.chunk.js",
+    "main.js.map": "/pfolio/static/js/main.7a177c15.chunk.js.map",
+    "runtime-main.js": "/pfolio/static/js/runtime-main.eaa71ec9.js",
+    "runtime-main.js.map": "/pfolio/static/js/runtime-main.eaa71ec9.js.map",
+    "static/css/2.75261d94.chunk.css": "/pfolio/static/css/2.75261d94.chunk.css",
+    "static/js/2.22bdd06e.chunk.js": "/pfolio/static/js/2.22bdd06e.chunk.js",
+    "static/js/2.22bdd06e.chunk.js.map": "/pfolio/static/js/2.22bdd06e.chunk.js.map",
+    "static/js/3.de473372.chunk.js": "/pfolio/static/js/3.de473372.chunk.js",
+    "static/js/3.de473372.chunk.js.map": "/pfolio/static/js/3.de473372.chunk.js.map",
+    "static/js/4.4670a5c6.chunk.js": "/pfolio/static/js/4.4670a5c6.chunk.js",
+    "static/js/4.4670a5c6.chunk.js.map": "/pfolio/static/js/4.4670a5c6.chunk.js.map",
     "index.html": "/pfolio/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/pfolio/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.a2f5c1f7.chunk.css.map": "/pfolio/static/css/main.a2f5c1f7.chunk.css.map",
-    "static/js/2.b82b02f4.chunk.js.LICENSE.txt": "/pfolio/static/js/2.b82b02f4.chunk.js.LICENSE.txt",
+    "static/css/2.75261d94.chunk.css.map": "/pfolio/static/css/2.75261d94.chunk.css.map",
+    "static/css/main.01ac91d4.chunk.css.map": "/pfolio/static/css/main.01ac91d4.chunk.css.map",
+    "static/js/2.22bdd06e.chunk.js.LICENSE.txt": "/pfolio/static/js/2.22bdd06e.chunk.js.LICENSE.txt",
     "static/media/aboutMe.css": "/pfolio/static/media/imagine.8c597ebf.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.40931706.js",
-    "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.b82b02f4.chunk.js",
-    "static/css/main.a2f5c1f7.chunk.css",
-    "static/js/main.6a8c49e5.chunk.js"
+    "static/js/runtime-main.eaa71ec9.js",
+    "static/css/2.75261d94.chunk.css",
+    "static/js/2.22bdd06e.chunk.js",
+    "static/css/main.01ac91d4.chunk.css",
+    "static/js/main.7a177c15.chunk.js"
   ]
 }
