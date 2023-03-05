@@ -11,7 +11,7 @@ class Footer extends React.Component {
 						<span className="dib mr4 mr5-ns hover-light-purple">Octavian Andrei Pop</span>
 					</p>
 					<div className="imagine">
-				    	<a href="https://github.com/andrei3914" target="_blank" rel="noreferrer noopener"><img src={imagine} alt="github logo"></img></a>
+				    	<a href="https://github.com/andrei3914" target="_blank" rel="noreferrer noopener"><img src={imagine} alt="github logo" width='30px' height='30px'></img></a>
 					</div>
 				</div>
 			  <p className="f6 link white-80 hover-light-purple">

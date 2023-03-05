@@ -5,7 +5,7 @@ import ProjectCard from "./ProjectCard"
 
 const Projects = () => {
   return (
-    <div className="disp">
+    <div className="disp" id="projects-container">
       {webProjects.map(
         project =>
           project && <ProjectCard key={project.url} project={project} />

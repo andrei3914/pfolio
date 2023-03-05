@@ -6,14 +6,11 @@ import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import './App.css';
-import Particles from 'react-tsparticles';
-import particleOptions from './components/Misc/particleOptions';
 
 class App extends React.Component {
   render() {
     return (
       <div className="App"> 
-        <Particles params={particleOptions} /> 
         <Navigation />
         <Welcome />      
         <AboutMe />      

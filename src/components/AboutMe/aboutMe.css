@@ -11,16 +11,6 @@
   width: 100%;
 }
 
-.poza {
-  background-image: url("imagine.JPG");
-  background-color: #cccccc;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  border-radius: 50%;
-}
-
 @media only screen and (max-width: 1700px) {
   .poza {
     display: none;
